@@ -1,6 +1,6 @@
 {
   "name": "aoi.wm",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "A simple package for watermarking images",
   "main": "index.js",
   "scripts": {
